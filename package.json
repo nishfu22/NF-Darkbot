@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot",
+  "name": "NF-Darkbot",
   "version": "1.0.0",
   "description": "Termux Telegram Bot",
   "main": "bot.js",
